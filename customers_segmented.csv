@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,City,Income,Purchase_Amount,Product_Category,Customer_Category
+C0001,71,Female,Galle,132000,62000,Clothing,Premium
+C0002,32,Female,Colombo,124000,46500,Accessories,Regular
+C0003,64,Female,Galle,92000,30500,Groceries,Regular
+C0004,32,Male,Galle,158000,25000,Groceries,Regular
+C0005,57,Female,Jaffna,30000,52500,Electronics,Premium
+C0006,61,Male,Jaffna,126000,9000,Electronics,Low Value
+C0007,71,Male,Colombo,87000,74500,Groceries,Premium
+C0008,53,Female,Colombo,235000,85000,Groceries,Premium
+C0009,69,Female,Negombo,68000,83500,Groceries,Premium
+C0010,53,Female,Kandy,159000,0,No Purchase,Low Value
+C0011,57,Male,Kandy,184000,85000,Groceries,Premium
+C0012,54,Male,Galle,125000,30500,Clothing,Regular
+C0013,62,Male,Colombo,105000,77500,Accessories,Premium
+C0014,55,Male,Negombo,105000,12000,Electronics,Regular
+C0015,48,Male,Galle,156000,100000,Accessories,Premium
+C0016,34,Male,Colombo,157000,21000,Electronics,Regular
+C0017,39,Female,Jaffna,125000,85500,Books,Premium
+C0018,70,Male,Jaffna,246000,42500,Electronics,Regular
+C0019,68,Male,Galle,135000,12000,Electronics,Regular
+C0020,26,Female,Galle,177000,0,No Purchase,Low Value
+C0021,67,Male,Galle,108000,71000,Books,Premium
+C0022,27,Male,Galle,161000,47500,Groceries,Regular
+C0023,46,Male,Negombo,225000,100000,Groceries,Premium
+C0024,71,Male,Negombo,240000,40000,Books,Regular
+C0025,72,Female,Jaffna,240000,63000,Electronics,Premium
+C0026,37,Male,Jaffna,137000,84500,Books,Premium
+C0027,44,Female,Galle,250000,78000,Clothing,Premium
+C0028,71,Male,Negombo,173000,51000,Books,Premium
+C0029,52,Female,Jaffna,221000,19500,Groceries,Regular
+C0030,62,Male,Kandy,185000,0,No Purchase,Low Value
+C0031,49,Male,Jaffna,116000,21500,Electronics,Regular
+C0032,46,Male,Galle,103000,73000,Accessories,Premium
+C0033,59,Female,Colombo,42000,7000,Clothing,Low Value
+C0034,68,Male,Jaffna,182000,8000,Clothing,Low Value
+C0035,31,Female,Galle,184000,82000,Books,Premium
+C0036,71,Female,Colombo,235000,87000,Books,Premium
+C0037,55,Female,Kandy,168000,24500,Accessories,Regular
+C0038,23,Female,Colombo,83000,90500,Books,Premium
+C0039,24,Male,Kandy,51000,84500,Groceries,Premium
+C0040,21,Female,Kandy,196000,0,No Purchase,Low Value
+C0041,38,Male,Jaffna,144000,65000,Clothing,Premium
+C0042,38,Male,Colombo,81000,102000,Clothing,Premium
+C0043,69,Male,Galle,82000,41000,Electronics,Regular
+C0044,62,Male,Kandy,134000,9500,Clothing,Low Value
+C0045,22,Male,Negombo,209000,23000,Groceries,Regular
+C0046,75,Female,Kandy,28000,113000,Accessories,Premium
+C0047,57,Female,Kandy,125000,112000,Accessories,Premium
+C0048,24,Female,Negombo,98000,16000,Accessories,Regular
+C0049,68,Female,Galle,40000,90500,Accessories,Premium
+C0050,22,Female,Colombo,194000,0,No Purchase,Low Value
+C0051,53,Male,Kandy,226000,4000,Clothing,Low Value
+C0052,41,Female,Jaffna,145000,84000,Clothing,Premium
+C0053,67,Male,Galle,79000,77500,Accessories,Premium
+C0054,56,Female,Negombo,182000,10500,Clothing,Regular
+C0055,23,Female,Kandy,107000,39000,Accessories,Regular
+C0056,49,Female,Negombo,152000,32000,Groceries,Regular
+C0057,33,Male,Kandy,196000,45500,Books,Regular
+C0058,28,Male,Galle,237000,87500,Accessories,Premium
+C0059,64,Male,Galle,28000,106500,Groceries,Premium
+C0060,57,Male,Galle,151000,0,No Purchase,Low Value
+C0061,39,Male,Colombo,122000,58500,Electronics,Premium
+C0062,66,Male,Negombo,106000,118500,Groceries,Premium
+C0063,43,Female,Negombo,222000,48000,Accessories,Regular
+C0064,72,Female,Kandy,112000,60000,Groceries,Premium
+C0065,68,Female,Colombo,65000,86000,Electronics,Premium
+C0066,50,Male,Kandy,219000,2000,Groceries,Low Value
+C0067,65,Female,Colombo,148000,88500,Groceries,Premium
+C0068,23,Male,Negombo,221000,40000,Groceries,Regular
+C0069,37,Female,Colombo,208000,42500,Books,Regular
+C0070,43,Female,Colombo,200000,0,No Purchase,Low Value
+C0071,31,Male,Galle,87000,112500,Clothing,Premium
+C0072,62,Male,Kandy,130000,91500,Groceries,Premium
+C0073,75,Male,Kandy,72000,14500,Groceries,Regular
+C0074,71,Female,Negombo,224000,42000,Clothing,Regular
+C0075,38,Female,Galle,177000,71000,Clothing,Premium
+C0076,74,Female,Jaffna,158000,20500,Books,Regular
+C0077,39,Female,Colombo,126000,81500,Clothing,Premium
+C0078,26,Male,Colombo,151000,114500,Groceries,Premium
+C0079,74,Male,Galle,245000,111500,Electronics,Premium
+C0080,48,Male,Jaffna,188000,0,No Purchase,Low Value
+C0081,65,Male,Galle,112000,12000,Electronics,Regular
+C0082,22,Male,Jaffna,35000,52500,Clothing,Premium
+C0083,45,Female,Galle,169000,72500,Clothing,Premium
+C0084,44,Female,Jaffna,201000,33000,Accessories,Regular
+C0085,59,Male,Jaffna,135000,5000,Accessories,Low Value
+C0086,48,Female,Kandy,185000,22000,Clothing,Regular
+C0087,33,Male,Jaffna,140000,74000,Books,Premium
+C0088,39,Female,Colombo,207000,12500,Groceries,Regular
+C0089,36,Male,Negombo,56000,31000,Clothing,Regular
+C0090,40,Female,Colombo,138000,0,No Purchase,Low Value
+C0091,43,Female,Kandy,244000,94000,Clothing,Premium
+C0092,47,Male,Negombo,165000,88000,Accessories,Premium
+C0093,61,Male,Kandy,190000,93000,Groceries,Premium
+C0094,66,Female,Galle,126000,48000,Groceries,Regular
+C0095,47,Male,Jaffna,44000,68000,Clothing,Premium
+C0096,35,Female,Jaffna,123000,27500,Electronics,Regular
+C0097,37,Male,Negombo,127000,75500,Clothing,Premium
+C0098,61,Male,Jaffna,141000,111500,Clothing,Premium
+C0099,55,Male,Negombo,152000,107500,Books,Premium
+C0100,70,Female,Jaffna,49000,0,No Purchase,Low Value
+C0101,68,Male,Negombo,67000,49500,Accessories,Regular
+C0102,64,Male,Colombo,161000,19000,Accessories,Regular
+C0103,67,Male,Colombo,229000,5000,Accessories,Low Value
+C0104,53,Male,Kandy,32000,55000,Accessories,Premium
+C0105,44,Male,Negombo,121000,12000,Groceries,Regular
+C0106,31,Male,Colombo,222000,68000,Groceries,Premium
+C0107,55,Male,Kandy,213000,40000,Books,Regular
+C0108,49,Female,Negombo,129000,40500,Groceries,Regular
+C0109,30,Male,Colombo,197000,12000,Accessories,Regular
+C0110,56,Female,Colombo,111000,0,No Purchase,Low Value
+C0111,68,Male,Negombo,89000,34000,Accessories,Regular
+C0112,58,Male,Negombo,191000,118500,Books,Premium
+C0113,59,Male,Negombo,219000,95000,Clothing,Premium
+C0114,41,Male,Negombo,203000,114000,Books,Premium
+C0115,37,Female,Colombo,177000,43500,Accessories,Regular
+C0116,56,Female,Kandy,190000,76500,Electronics,Premium
+C0117,42,Male,Colombo,73000,67500,Accessories,Premium
+C0118,33,Female,Jaffna,216000,59500,Electronics,Premium
+C0119,61,Female,Kandy,76000,104000,Books,Premium
+C0120,57,Male,Negombo,165000,0,No Purchase,Low Value
+C0121,73,Female,Jaffna,97000,118000,Accessories,Premium
+C0122,70,Male,Colombo,92000,84000,Clothing,Premium
+C0123,61,Male,Kandy,46000,36000,Electronics,Regular
+C0124,65,Male,Kandy,156000,93500,Electronics,Premium
+C0125,74,Male,Negombo,244000,2000,Clothing,Low Value
+C0126,25,Female,Colombo,170000,73000,Clothing,Premium
+C0127,51,Female,Negombo,215000,83000,Groceries,Premium
+C0128,73,Female,Colombo,25000,111000,Clothing,Premium
+C0129,73,Male,Galle,127000,82500,Accessories,Premium
+C0130,44,Male,Jaffna,229000,0,No Purchase,Low Value
+C0131,72,Female,Colombo,26000,16000,Electronics,Regular
+C0132,45,Female,Galle,95000,102500,Clothing,Premium
+C0133,33,Male,Negombo,187000,39000,Books,Regular
+C0134,56,Male,Colombo,45000,83000,Electronics,Premium
+C0135,30,Female,Colombo,132000,85500,Books,Premium
+C0136,52,Female,Negombo,225000,16000,Books,Regular
+C0137,57,Female,Galle,207000,35500,Accessories,Regular
+C0138,67,Male,Colombo,81000,48000,Accessories,Regular
+C0139,18,Female,Jaffna,47000,94000,Clothing,Premium
+C0140,68,Male,Colombo,117000,0,No Purchase,Low Value
+C0141,57,Female,Jaffna,85000,44500,Groceries,Regular
+C0142,28,Female,Galle,25000,106000,Clothing,Premium
+C0143,36,Male,Jaffna,228000,113000,Groceries,Premium
+C0144,32,Female,Jaffna,168000,70000,Books,Premium
+C0145,69,Male,Kandy,119000,115000,Clothing,Premium
+C0146,58,Female,Kandy,166000,19000,Clothing,Regular
+C0147,47,Male,Negombo,250000,70500,Accessories,Premium
+C0148,30,Female,Colombo,46000,102500,Electronics,Premium
+C0149,21,Female,Jaffna,238000,27500,Groceries,Regular
+C0150,31,Male,Colombo,81000,0,No Purchase,Low Value
+C0151,50,Male,Jaffna,141000,99000,Accessories,Premium
+C0152,50,Female,Kandy,124000,40500,Accessories,Regular
+C0153,32,Male,Galle,95000,35000,Accessories,Regular
+C0154,53,Male,Colombo,120000,61000,Clothing,Premium
+C0155,28,Female,Colombo,123000,7000,Books,Low Value
+C0156,46,Male,Colombo,111000,69000,Groceries,Premium
+C0157,49,Male,Negombo,118000,30000,Groceries,Regular
+C0158,70,Female,Negombo,243000,37000,Groceries,Regular
+C0159,58,Male,Galle,129000,119500,Clothing,Premium
+C0160,23,Male,Negombo,118000,0,No Purchase,Low Value
+C0161,68,Male,Negombo,45000,8500,Groceries,Low Value
+C0162,31,Female,Negombo,156000,105000,Electronics,Premium
+C0163,62,Male,Colombo,68000,48500,Books,Regular
+C0164,67,Female,Kandy,69000,96500,Groceries,Premium
+C0165,44,Male,Galle,27000,63000,Books,Premium
+C0166,43,Male,Kandy,89000,32000,Electronics,Regular
+C0167,44,Male,Galle,50000,66500,Books,Premium
+C0168,23,Female,Kandy,34000,54500,Electronics,Premium
+C0169,70,Female,Jaffna,37000,23500,Groceries,Regular
+C0170,62,Female,Jaffna,113000,0,No Purchase,Low Value
+C0171,54,Female,Kandy,58000,68500,Books,Premium
+C0172,48,Female,Negombo,138000,10500,Accessories,Regular
+C0173,38,Male,Jaffna,145000,98000,Books,Premium
+C0174,30,Female,Colombo,207000,81000,Books,Premium
+C0175,35,Female,Colombo,97000,16000,Clothing,Regular
+C0176,31,Male,Kandy,168000,72500,Books,Premium
+C0177,43,Female,Colombo,241000,64500,Accessories,Premium
+C0178,63,Male,Colombo,202000,33000,Electronics,Regular
+C0179,65,Female,Kandy,181000,103000,Books,Premium
+C0180,41,Female,Colombo,95000,0,No Purchase,Low Value
+C0181,54,Female,Galle,174000,48500,Books,Regular
+C0182,63,Female,Negombo,168000,68500,Groceries,Premium
+C0183,24,Male,Jaffna,223000,118000,Accessories,Premium
+C0184,49,Female,Kandy,200000,16500,Groceries,Regular
+C0185,30,Male,Negombo,166000,3500,Books,Low Value
+C0186,19,Male,Negombo,133000,92000,Groceries,Premium
+C0187,62,Male,Colombo,161000,42000,Electronics,Regular
+C0188,67,Female,Jaffna,166000,31500,Electronics,Regular
+C0189,37,Male,Jaffna,213000,15500,Electronics,Regular
+C0190,22,Male,Colombo,176000,0,No Purchase,Low Value
+C0191,62,Female,Jaffna,31000,93500,Accessories,Premium
+C0192,26,Male,Colombo,196000,20000,Accessories,Regular
+C0193,50,Male,Galle,150000,70500,Electronics,Premium
+C0194,49,Female,Jaffna,230000,109000,Accessories,Premium
+C0195,58,Male,Negombo,152000,83000,Groceries,Premium
+C0196,60,Female,Kandy,84000,20500,Accessories,Regular
+C0197,65,Female,Galle,62000,104500,Electronics,Premium
+C0198,31,Male,Galle,128000,81500,Books,Premium
+C0199,73,Male,Jaffna,207000,54500,Books,Premium
+C0200,72,Female,Jaffna,180000,0,No Purchase,Low Value
+C0201,75,Male,Negombo,136000,74500,Groceries,Premium
+C0202,32,Female,Jaffna,163000,87000,Accessories,Premium
+C0203,65,Male,Kandy,153000,19000,Electronics,Regular
+C0204,58,Male,Kandy,212000,98500,Books,Premium
+C0205,68,Male,Jaffna,227000,24500,Electronics,Regular
+C0206,35,Female,Galle,64000,64500,Accessories,Premium
+C0207,67,Female,Colombo,85000,82500,Books,Premium
+C0208,58,Male,Jaffna,178000,35000,Accessories,Regular
+C0209,58,Male,Negombo,130000,44000,Electronics,Regular
+C0210,44,Male,Colombo,121000,0,No Purchase,Low Value
+C0211,49,Male,Colombo,240000,92000,Groceries,Premium
+C0212,44,Male,Jaffna,148000,113500,Accessories,Premium
+C0213,66,Male,Negombo,107000,80000,Books,Premium
+C0214,56,Male,Negombo,235000,8500,Electronics,Low Value
+C0215,70,Female,Kandy,176000,102000,Accessories,Premium
+C0216,65,Male,Colombo,204000,69500,Books,Premium
+C0217,67,Female,Galle,86000,34500,Groceries,Regular
+C0218,50,Male,Colombo,239000,37000,Electronics,Regular
+C0219,34,Female,Kandy,68000,37500,Books,Regular
+C0220,59,Female,Negombo,54000,0,No Purchase,Low Value
+C0221,61,Female,Galle,48000,38000,Clothing,Regular
+C0222,31,Male,Jaffna,26000,63000,Electronics,Premium
+C0223,75,Male,Galle,44000,18500,Electronics,Regular
+C0224,63,Male,Jaffna,225000,7000,Accessories,Low Value
+C0225,52,Female,Negombo,48000,120000,Groceries,Premium
+C0226,69,Male,Kandy,72000,36000,Clothing,Regular
+C0227,55,Female,Kandy,164000,117500,Books,Premium
+C0228,39,Female,Kandy,118000,59500,Clothing,Premium
+C0229,71,Female,Colombo,130000,61500,Accessories,Premium
+C0230,34,Female,Negombo,144000,0,No Purchase,Low Value
+C0231,54,Female,Colombo,122000,99000,Accessories,Premium
+C0232,38,Female,Negombo,175000,57000,Groceries,Premium
+C0233,41,Male,Kandy,48000,12000,Groceries,Regular
+C0234,19,Male,Negombo,152000,82500,Books,Premium
+C0235,26,Male,Kandy,57000,115500,Clothing,Premium
+C0236,56,Female,Jaffna,28000,7000,Accessories,Low Value
+C0237,45,Male,Jaffna,64000,1500,Electronics,Low Value
+C0238,54,Female,Jaffna,103000,34500,Electronics,Regular
+C0239,40,Male,Jaffna,113000,57500,Groceries,Premium
+C0240,65,Female,Negombo,111000,0,No Purchase,Low Value
+C0241,20,Male,Jaffna,113000,66500,Electronics,Premium
+C0242,68,Female,Negombo,172000,13000,Groceries,Regular
+C0243,37,Male,Jaffna,98000,93000,Accessories,Premium
+C0244,64,Male,Galle,239000,33500,Books,Regular
+C0245,59,Male,Jaffna,187000,14000,Electronics,Regular
+C0246,38,Male,Colombo,59000,29500,Groceries,Regular
+C0247,33,Male,Negombo,143000,4500,Groceries,Low Value
+C0248,40,Male,Kandy,118000,24000,Books,Regular
+C0249,19,Male,Colombo,188000,80500,Accessories,Premium
+C0250,41,Male,Jaffna,122000,0,No Purchase,Low Value
+C0251,62,Female,Colombo,188000,99000,Accessories,Premium
+C0252,54,Male,Negombo,189000,34500,Books,Regular
+C0253,36,Female,Colombo,178000,74000,Groceries,Premium
+C0254,39,Female,Galle,226000,79000,Books,Premium
+C0255,45,Male,Kandy,92000,95000,Accessories,Premium
+C0256,27,Female,Kandy,126000,92500,Groceries,Premium
+C0257,61,Female,Negombo,175000,30000,Accessories,Regular
+C0258,59,Female,Jaffna,81000,63500,Groceries,Premium
+C0259,51,Male,Jaffna,43000,95000,Groceries,Premium
+C0260,28,Female,Jaffna,161000,0,No Purchase,Low Value
+C0261,49,Male,Negombo,42000,108000,Accessories,Premium
+C0262,49,Female,Colombo,55000,104000,Clothing,Premium
+C0263,36,Female,Jaffna,221000,22000,Electronics,Regular
+C0264,70,Male,Galle,244000,3000,Accessories,Low Value
+C0265,28,Female,Negombo,105000,47500,Groceries,Regular
+C0266,75,Male,Galle,236000,100000,Groceries,Premium
+C0267,33,Male,Kandy,167000,24000,Clothing,Regular
+C0268,53,Male,Colombo,156000,4500,Accessories,Low Value
+C0269,46,Male,Kandy,148000,28500,Groceries,Regular
+C0270,48,Male,Galle,183000,0,No Purchase,Low Value
+C0271,19,Male,Jaffna,164000,116500,Accessories,Premium
+C0272,55,Female,Kandy,57000,23000,Groceries,Regular
+C0273,44,Male,Galle,97000,67500,Books,Premium
+C0274,37,Male,Colombo,181000,55500,Clothing,Premium
+C0275,72,Male,Kandy,207000,96000,Clothing,Premium
+C0276,28,Male,Kandy,226000,7500,Accessories,Low Value
+C0277,42,Male,Kandy,120000,60000,Books,Premium
+C0278,26,Female,Colombo,214000,106000,Books,Premium
+C0279,73,Female,Negombo,134000,80000,Accessories,Premium
+C0280,71,Male,Colombo,162000,0,No Purchase,Low Value
+C0281,47,Female,Galle,127000,67500,Accessories,Premium
+C0282,53,Male,Negombo,29000,104000,Groceries,Premium
+C0283,47,Male,Negombo,207000,26500,Accessories,Regular
+C0284,21,Female,Colombo,208000,70500,Clothing,Premium
+C0285,67,Male,Kandy,132000,6000,Electronics,Low Value
+C0286,63,Male,Colombo,180000,21000,Groceries,Regular
+C0287,63,Female,Colombo,94000,40500,Accessories,Regular
+C0288,42,Male,Jaffna,53000,11000,Groceries,Regular
+C0289,54,Male,Colombo,50000,94000,Accessories,Premium
+C0290,36,Female,Kandy,51000,0,No Purchase,Low Value
+C0291,70,Female,Kandy,40000,108500,Books,Premium
+C0292,32,Female,Kandy,188000,36000,Books,Regular
+C0293,25,Male,Negombo,106000,45000,Electronics,Regular
+C0294,68,Male,Colombo,174000,109000,Clothing,Premium
+C0295,24,Female,Negombo,49000,11000,Electronics,Regular
+C0296,24,Male,Kandy,42000,26000,Electronics,Regular
+C0297,44,Female,Negombo,148000,85000,Accessories,Premium
+C0298,59,Male,Colombo,38000,109500,Clothing,Premium
+C0299,34,Male,Colombo,248000,39000,Accessories,Regular
+C0300,34,Male,Colombo,111000,0,No Purchase,Low Value
+C0301,27,Male,Negombo,187000,102500,Electronics,Premium
+C0302,34,Male,Galle,171000,118500,Accessories,Premium
+C0303,20,Male,Kandy,43000,68000,Groceries,Premium
+C0304,32,Male,Kandy,185000,69000,Books,Premium
+C0305,44,Male,Galle,40000,67000,Electronics,Premium
+C0306,57,Male,Negombo,188000,105000,Electronics,Premium
+C0307,58,Female,Kandy,142000,1000,Electronics,Low Value
+C0308,63,Male,Galle,152000,95000,Groceries,Premium
+C0309,35,Female,Negombo,62000,97500,Clothing,Premium
+C0310,75,Male,Negombo,84000,0,No Purchase,Low Value
+C0311,43,Female,Negombo,187000,44000,Clothing,Regular
+C0312,23,Female,Kandy,151000,9500,Accessories,Low Value
+C0313,48,Male,Jaffna,235000,111000,Clothing,Premium
+C0314,70,Male,Kandy,110000,95000,Accessories,Premium
+C0315,33,Male,Jaffna,25000,63500,Clothing,Premium
+C0316,35,Female,Jaffna,106000,84000,Clothing,Premium
+C0317,43,Male,Kandy,135000,80500,Accessories,Premium
+C0318,25,Male,Negombo,123000,68000,Books,Premium
+C0319,44,Female,Kandy,109000,104000,Books,Premium
+C0320,56,Female,Jaffna,28000,0,No Purchase,Low Value
+C0321,72,Male,Negombo,25000,49000,Electronics,Regular
+C0322,63,Male,Galle,183000,85000,Clothing,Premium
+C0323,75,Male,Jaffna,249000,87000,Clothing,Premium
+C0324,36,Male,Negombo,121000,26500,Clothing,Regular
+C0325,38,Female,Kandy,204000,67500,Accessories,Premium
+C0326,70,Female,Negombo,26000,34000,Accessories,Regular
+C0327,23,Male,Galle,111000,17500,Clothing,Regular
+C0328,52,Male,Negombo,136000,20000,Clothing,Regular
+C0329,52,Female,Galle,196000,113500,Electronics,Premium
+C0330,54,Male,Negombo,70000,0,No Purchase,Low Value
+C0331,59,Male,Negombo,193000,16000,Accessories,Regular
+C0332,28,Female,Galle,55000,113000,Clothing,Premium
+C0333,53,Male,Kandy,207000,19000,Electronics,Regular
+C0334,24,Female,Colombo,118000,12500,Accessories,Regular
+C0335,51,Female,Negombo,141000,6000,Electronics,Low Value
+C0336,21,Male,Colombo,145000,101500,Groceries,Premium
+C0337,58,Male,Kandy,111000,55500,Groceries,Premium
+C0338,54,Female,Jaffna,206000,113500,Groceries,Premium
+C0339,70,Male,Colombo,77000,94000,Groceries,Premium
+C0340,74,Male,Galle,92000,0,No Purchase,Low Value
+C0341,66,Male,Kandy,34000,81000,Books,Premium
+C0342,53,Female,Galle,132000,61500,Accessories,Premium
+C0343,47,Female,Galle,237000,3500,Books,Low Value
+C0344,59,Female,Colombo,45000,34000,Accessories,Regular
+C0345,38,Female,Colombo,174000,1500,Groceries,Low Value
+C0346,30,Male,Galle,237000,16500,Electronics,Regular
+C0347,57,Female,Galle,186000,94500,Groceries,Premium
+C0348,39,Male,Galle,194000,83000,Groceries,Premium
+C0349,38,Male,Kandy,138000,115500,Groceries,Premium
+C0350,69,Female,Jaffna,33000,0,No Purchase,Low Value
+C0351,74,Male,Galle,231000,87000,Books,Premium
+C0352,62,Male,Kandy,127000,99500,Accessories,Premium
+C0353,65,Female,Kandy,69000,118500,Groceries,Premium
+C0354,33,Male,Jaffna,65000,69500,Groceries,Premium
+C0355,67,Male,Kandy,170000,67000,Books,Premium
+C0356,75,Male,Galle,244000,37500,Groceries,Regular
+C0357,24,Female,Colombo,165000,85500,Electronics,Premium
+C0358,53,Female,Jaffna,186000,70500,Electronics,Premium
+C0359,61,Male,Negombo,170000,27500,Groceries,Regular
+C0360,53,Male,Kandy,234000,0,No Purchase,Low Value
+C0361,55,Male,Negombo,184000,3000,Clothing,Low Value
+C0362,51,Female,Kandy,177000,116500,Clothing,Premium
+C0363,72,Female,Negombo,156000,100000,Accessories,Premium
+C0364,60,Male,Kandy,41000,55500,Accessories,Premium
+C0365,42,Male,Galle,123000,88000,Clothing,Premium
+C0366,25,Female,Jaffna,199000,44500,Clothing,Regular
+C0367,72,Male,Negombo,186000,66500,Clothing,Premium
+C0368,26,Female,Colombo,172000,24500,Accessories,Regular
+C0369,36,Male,Kandy,106000,29500,Electronics,Regular
+C0370,22,Male,Jaffna,100000,0,No Purchase,Low Value
+C0371,38,Female,Jaffna,167000,2500,Electronics,Low Value
+C0372,29,Female,Galle,233000,40500,Groceries,Regular
+C0373,65,Male,Jaffna,108000,98000,Groceries,Premium
+C0374,30,Female,Colombo,81000,56000,Groceries,Premium
+C0375,67,Female,Jaffna,198000,6000,Clothing,Low Value
+C0376,24,Female,Negombo,62000,77000,Books,Premium
+C0377,47,Female,Galle,58000,83500,Books,Premium
+C0378,51,Female,Kandy,61000,20500,Accessories,Regular
+C0379,48,Male,Negombo,212000,119500,Books,Premium
+C0380,67,Male,Colombo,201000,0,No Purchase,Low Value
+C0381,70,Female,Negombo,66000,33500,Clothing,Regular
+C0382,51,Male,Galle,39000,61500,Groceries,Premium
+C0383,60,Male,Galle,105000,58000,Groceries,Premium
+C0384,47,Female,Galle,91000,20500,Accessories,Regular
+C0385,28,Female,Kandy,164000,117000,Electronics,Premium
+C0386,36,Male,Kandy,184000,110000,Electronics,Premium
+C0387,54,Male,Galle,26000,25000,Books,Regular
+C0388,67,Male,Jaffna,118000,10500,Electronics,Regular
+C0389,67,Male,Colombo,34000,31000,Books,Regular
+C0390,20,Male,Negombo,91000,0,No Purchase,Low Value
+C0391,66,Male,Negombo,120000,105500,Accessories,Premium
+C0392,59,Female,Negombo,45000,5000,Books,Low Value
+C0393,46,Female,Colombo,97000,104000,Accessories,Premium
+C0394,24,Male,Galle,198000,5500,Electronics,Low Value
+C0395,23,Male,Galle,153000,5000,Accessories,Low Value
+C0396,19,Male,Galle,110000,17500,Accessories,Regular
+C0397,22,Male,Kandy,143000,101000,Accessories,Premium
+C0398,64,Female,Negombo,199000,95000,Books,Premium
+C0399,37,Female,Negombo,25000,53500,Groceries,Premium
+C0400,44,Female,Negombo,190000,0,No Purchase,Low Value
+C0401,74,Male,Galle,96000,36000,Accessories,Regular
+C0402,39,Male,Colombo,154000,10500,Groceries,Regular
+C0403,43,Male,Kandy,41000,88000,Clothing,Premium
+C0404,30,Female,Jaffna,213000,102500,Clothing,Premium
+C0405,61,Female,Negombo,161000,12500,Accessories,Regular
+C0406,35,Male,Jaffna,126000,114500,Books,Premium
+C0407,41,Male,Galle,168000,59500,Clothing,Premium
+C0408,72,Male,Jaffna,130000,56000,Clothing,Premium
+C0409,74,Female,Kandy,175000,37000,Books,Regular
+C0410,40,Male,Galle,57000,0,No Purchase,Low Value
+C0411,48,Female,Galle,202000,91500,Accessories,Premium
+C0412,69,Male,Galle,47000,13500,Clothing,Regular
+C0413,59,Male,Negombo,222000,1000,Electronics,Low Value
+C0414,35,Male,Colombo,199000,25500,Groceries,Regular
+C0415,71,Male,Negombo,136000,62000,Books,Premium
+C0416,34,Male,Jaffna,121000,110000,Books,Premium
+C0417,56,Female,Galle,173000,94500,Groceries,Premium
+C0418,28,Male,Galle,249000,42000,Electronics,Regular
+C0419,64,Female,Negombo,211000,37000,Groceries,Regular
+C0420,44,Female,Galle,240000,0,No Purchase,Low Value
+C0421,51,Male,Colombo,211000,55000,Electronics,Premium
+C0422,74,Male,Jaffna,89000,115500,Electronics,Premium
+C0423,48,Female,Kandy,122000,20000,Groceries,Regular
+C0424,44,Male,Jaffna,35000,19000,Clothing,Regular
+C0425,42,Male,Kandy,145000,96500,Accessories,Premium
+C0426,61,Female,Jaffna,180000,58500,Accessories,Premium
+C0427,67,Female,Colombo,239000,94500,Electronics,Premium
+C0428,61,Female,Jaffna,112000,49000,Clothing,Regular
+C0429,50,Male,Colombo,161000,86500,Groceries,Premium
+C0430,27,Female,Colombo,182000,0,No Purchase,Low Value
+C0431,62,Female,Negombo,215000,99000,Groceries,Premium
+C0432,19,Female,Galle,29000,82500,Electronics,Premium
+C0433,62,Female,Jaffna,192000,75500,Groceries,Premium
+C0434,21,Male,Kandy,179000,84500,Clothing,Premium
+C0435,62,Male,Negombo,87000,86000,Accessories,Premium
+C0436,34,Male,Kandy,122000,96000,Clothing,Premium
+C0437,64,Female,Jaffna,157000,3000,Accessories,Low Value
+C0438,37,Male,Negombo,178000,18000,Books,Regular
+C0439,73,Male,Colombo,120000,51000,Accessories,Premium
+C0440,48,Male,Negombo,169000,0,No Purchase,Low Value
+C0441,33,Male,Colombo,45000,77500,Groceries,Premium
+C0442,51,Female,Jaffna,65000,30000,Clothing,Regular
+C0443,50,Female,Jaffna,48000,100000,Books,Premium
+C0444,20,Female,Negombo,45000,112500,Electronics,Premium
+C0445,27,Female,Galle,121000,98500,Accessories,Premium
+C0446,60,Male,Galle,63000,3000,Clothing,Low Value
+C0447,29,Female,Kandy,219000,64000,Books,Premium
+C0448,43,Male,Kandy,139000,114500,Books,Premium
+C0449,31,Female,Jaffna,28000,51500,Groceries,Premium
+C0450,69,Female,Negombo,121000,0,No Purchase,Low Value
+C0451,35,Female,Jaffna,96000,40500,Groceries,Regular
+C0452,26,Male,Negombo,165000,53000,Electronics,Premium
+C0453,42,Female,Colombo,195000,4000,Electronics,Low Value
+C0454,54,Male,Negombo,232000,70000,Electronics,Premium
+C0455,18,Female,Kandy,185000,81000,Electronics,Premium
+C0456,54,Female,Colombo,233000,4500,Clothing,Low Value
+C0457,65,Male,Colombo,200000,99000,Books,Premium
+C0458,42,Female,Kandy,217000,118000,Clothing,Premium
+C0459,42,Female,Kandy,60000,45000,Groceries,Regular
+C0460,37,Female,Colombo,234000,0,No Purchase,Low Value
+C0461,51,Female,Galle,219000,86000,Clothing,Premium
+C0462,20,Female,Galle,232000,34000,Books,Regular
+C0463,52,Male,Kandy,67000,16000,Electronics,Regular
+C0464,29,Male,Galle,208000,75500,Groceries,Premium
+C0465,39,Male,Colombo,193000,87500,Electronics,Premium
+C0466,46,Female,Kandy,151000,89000,Clothing,Premium
+C0467,20,Female,Negombo,39000,102000,Electronics,Premium
+C0468,58,Male,Kandy,221000,50500,Electronics,Premium
+C0469,21,Male,Negombo,89000,44000,Books,Regular
+C0470,62,Female,Kandy,208000,0,No Purchase,Low Value
+C0471,24,Female,Negombo,246000,92000,Groceries,Premium
+C0472,49,Male,Negombo,179000,100000,Clothing,Premium
+C0473,34,Female,Jaffna,60000,100000,Clothing,Premium
+C0474,30,Male,Galle,69000,63500,Groceries,Premium
+C0475,20,Male,Kandy,239000,46500,Clothing,Regular
+C0476,62,Male,Galle,32000,13500,Electronics,Regular
+C0477,30,Female,Colombo,210000,58000,Electronics,Premium
+C0478,72,Female,Kandy,47000,21500,Electronics,Regular
+C0479,69,Female,Galle,241000,90500,Electronics,Premium
+C0480,35,Female,Galle,200000,0,No Purchase,Low Value
+C0481,40,Male,Colombo,154000,19500,Accessories,Regular
+C0482,67,Female,Galle,71000,11000,Accessories,Regular
+C0483,39,Male,Kandy,109000,111000,Books,Premium
+C0484,24,Male,Galle,123000,90000,Electronics,Premium
+C0485,43,Female,Negombo,112000,37500,Groceries,Regular
+C0486,54,Male,Galle,128000,83000,Books,Premium
+C0487,52,Female,Colombo,113000,43000,Groceries,Regular
+C0488,38,Male,Kandy,36000,63500,Clothing,Premium
+C0489,73,Male,Kandy,84000,66500,Groceries,Premium
+C0490,39,Female,Jaffna,183000,0,No Purchase,Low Value
+C0491,33,Male,Colombo,115000,92000,Accessories,Premium
+C0492,28,Female,Jaffna,140000,111500,Electronics,Premium
+C0493,52,Male,Galle,122000,35000,Groceries,Regular
+C0494,58,Male,Kandy,71000,37000,Clothing,Regular
+C0495,27,Female,Colombo,45000,82500,Books,Premium
+C0496,22,Female,Colombo,87000,38000,Clothing,Regular
+C0497,33,Female,Galle,120000,50500,Books,Premium
+C0498,35,Male,Jaffna,211000,33500,Clothing,Regular
+C0499,36,Male,Colombo,174000,107000,Books,Premium
+C0500,71,Male,Negombo,148000,0,No Purchase,Low Value
+C0501,50,Female,Galle,235000,64500,Clothing,Premium
+C0502,71,Male,Colombo,56000,61500,Accessories,Premium
+C0503,55,Female,Jaffna,190000,31500,Groceries,Regular
+C0504,61,Female,Jaffna,127000,78500,Clothing,Premium
+C0505,18,Male,Galle,99000,86500,Clothing,Premium
+C0506,57,Female,Colombo,166000,106000,Accessories,Premium
+C0507,66,Male,Jaffna,47000,46000,Books,Regular
+C0508,57,Male,Kandy,231000,108000,Groceries,Premium
+C0509,75,Female,Colombo,160000,6000,Electronics,Low Value
+C0510,30,Male,Galle,229000,0,No Purchase,Low Value
+C0511,23,Male,Colombo,71000,50000,Electronics,Regular
+C0512,57,Female,Galle,116000,92000,Clothing,Premium
+C0513,34,Male,Jaffna,243000,108500,Groceries,Premium
+C0514,43,Female,Negombo,191000,55000,Groceries,Premium
+C0515,48,Male,Jaffna,246000,33000,Clothing,Regular
+C0516,46,Male,Galle,189000,67500,Clothing,Premium
+C0517,36,Female,Negombo,249000,81500,Clothing,Premium
+C0518,71,Male,Kandy,45000,62000,Books,Premium
+C0519,61,Male,Negombo,128000,68500,Accessories,Premium
+C0520,19,Male,Colombo,135000,0,No Purchase,Low Value
+C0521,35,Female,Jaffna,126000,4000,Books,Low Value
+C0522,62,Male,Jaffna,28000,88500,Accessories,Premium
+C0523,60,Male,Colombo,184000,93500,Electronics,Premium
+C0524,47,Male,Kandy,136000,49500,Accessories,Regular
+C0525,28,Female,Negombo,52000,82500,Groceries,Premium
+C0526,34,Female,Jaffna,175000,53500,Accessories,Premium
+C0527,69,Female,Jaffna,123000,46000,Accessories,Regular
+C0528,32,Male,Negombo,106000,71000,Electronics,Premium
+C0529,61,Female,Galle,152000,40500,Clothing,Regular
+C0530,74,Female,Negombo,83000,0,No Purchase,Low Value
+C0531,46,Male,Galle,99000,11000,Electronics,Regular
+C0532,62,Male,Kandy,127000,58500,Accessories,Premium
+C0533,61,Female,Colombo,207000,111000,Accessories,Premium
+C0534,74,Female,Negombo,200000,111500,Electronics,Premium
+C0535,60,Male,Jaffna,224000,40000,Clothing,Regular
+C0536,30,Male,Colombo,206000,61500,Books,Premium
+C0537,68,Female,Jaffna,31000,85500,Groceries,Premium
+C0538,29,Male,Galle,84000,82500,Electronics,Premium
+C0539,24,Male,Colombo,110000,111500,Electronics,Premium
+C0540,21,Female,Kandy,195000,0,No Purchase,Low Value
+C0541,42,Male,Kandy,134000,50500,Groceries,Premium
+C0542,47,Female,Galle,114000,40000,Accessories,Regular
+C0543,24,Male,Colombo,52000,21000,Accessories,Regular
+C0544,55,Female,Negombo,190000,70500,Accessories,Premium
+C0545,58,Male,Negombo,33000,87000,Clothing,Premium
+C0546,73,Female,Galle,150000,84500,Groceries,Premium
+C0547,58,Female,Negombo,213000,109500,Groceries,Premium
+C0548,50,Male,Colombo,204000,76000,Books,Premium
+C0549,63,Female,Galle,47000,30000,Groceries,Regular
+C0550,48,Male,Jaffna,198000,0,No Purchase,Low Value
+C0551,54,Male,Colombo,132000,102000,Accessories,Premium
+C0552,22,Male,Colombo,133000,90500,Books,Premium
+C0553,64,Male,Kandy,164000,52000,Electronics,Premium
+C0554,73,Male,Galle,209000,18500,Books,Regular
+C0555,30,Male,Galle,40000,73000,Electronics,Premium
+C0556,37,Male,Galle,179000,78000,Clothing,Premium
+C0557,40,Male,Jaffna,149000,26500,Accessories,Regular
+C0558,65,Female,Colombo,127000,13500,Books,Regular
+C0559,63,Male,Colombo,104000,65500,Clothing,Premium
+C0560,48,Male,Jaffna,232000,0,No Purchase,Low Value
+C0561,46,Male,Negombo,147000,12000,Books,Regular
+C0562,40,Male,Negombo,172000,45500,Accessories,Regular
+C0563,28,Female,Colombo,236000,82500,Groceries,Premium
+C0564,58,Male,Galle,93000,99000,Electronics,Premium
+C0565,45,Female,Galle,185000,63500,Electronics,Premium
+C0566,67,Male,Negombo,52000,118000,Electronics,Premium
+C0567,54,Female,Galle,33000,80000,Clothing,Premium
+C0568,51,Male,Negombo,62000,74000,Accessories,Premium
+C0569,41,Male,Negombo,55000,11000,Electronics,Regular
+C0570,68,Male,Galle,141000,0,No Purchase,Low Value
+C0571,24,Female,Jaffna,221000,3500,Books,Low Value
+C0572,31,Male,Negombo,248000,55000,Groceries,Premium
+C0573,58,Male,Galle,66000,105000,Clothing,Premium
+C0574,71,Female,Jaffna,87000,44500,Accessories,Regular
+C0575,37,Female,Kandy,219000,27000,Electronics,Regular
+C0576,68,Female,Colombo,207000,113500,Accessories,Premium
+C0577,38,Female,Galle,96000,95000,Groceries,Premium
+C0578,71,Female,Galle,210000,64500,Books,Premium
+C0579,67,Female,Jaffna,194000,74000,Books,Premium
+C0580,60,Female,Kandy,191000,0,No Purchase,Low Value
+C0581,36,Male,Jaffna,172000,119500,Groceries,Premium
+C0582,30,Female,Colombo,67000,93000,Accessories,Premium
+C0583,33,Male,Galle,201000,102000,Clothing,Premium
+C0584,33,Female,Colombo,158000,38500,Electronics,Regular
+C0585,42,Male,Kandy,71000,105000,Groceries,Premium
+C0586,46,Male,Galle,132000,98500,Books,Premium
+C0587,19,Female,Kandy,44000,108500,Electronics,Premium
+C0588,42,Male,Kandy,51000,21000,Books,Regular
+C0589,49,Male,Galle,157000,37000,Clothing,Regular
+C0590,22,Male,Negombo,233000,0,No Purchase,Low Value
+C0591,37,Male,Negombo,59000,68000,Electronics,Premium
+C0592,32,Female,Galle,138000,42000,Accessories,Regular
+C0593,38,Male,Galle,175000,87000,Electronics,Premium
+C0594,50,Female,Galle,107000,68500,Accessories,Premium
+C0595,67,Female,Negombo,72000,30500,Electronics,Regular
+C0596,23,Male,Jaffna,135000,76000,Electronics,Premium
+C0597,70,Male,Jaffna,121000,98000,Clothing,Premium
+C0598,53,Male,Jaffna,220000,47000,Books,Regular
+C0599,23,Female,Kandy,187000,31500,Groceries,Regular
+C0600,37,Male,Kandy,203000,0,No Purchase,Low Value
+C0601,27,Female,Galle,157000,74500,Clothing,Premium
+C0602,30,Female,Galle,52000,93500,Accessories,Premium
+C0603,60,Male,Jaffna,183000,7000,Books,Low Value
+C0604,38,Female,Kandy,221000,92000,Accessories,Premium
+C0605,30,Female,Kandy,215000,97500,Clothing,Premium
+C0606,44,Female,Negombo,119000,17000,Books,Regular
+C0607,67,Female,Galle,60000,93500,Clothing,Premium
+C0608,72,Male,Negombo,250000,2500,Accessories,Low Value
+C0609,25,Female,Kandy,66000,93000,Clothing,Premium
+C0610,70,Female,Galle,44000,0,No Purchase,Low Value
+C0611,22,Female,Negombo,177000,47000,Accessories,Regular
+C0612,38,Female,Colombo,133000,29000,Clothing,Regular
+C0613,22,Female,Jaffna,218000,97000,Groceries,Premium
+C0614,24,Female,Galle,167000,25000,Books,Regular
+C0615,66,Male,Kandy,195000,103000,Electronics,Premium
+C0616,57,Female,Jaffna,226000,76000,Electronics,Premium
+C0617,54,Male,Colombo,77000,18000,Electronics,Regular
+C0618,43,Female,Jaffna,207000,87500,Electronics,Premium
+C0619,56,Male,Jaffna,157000,92500,Clothing,Premium
+C0620,67,Female,Negombo,128000,0,No Purchase,Low Value
+C0621,29,Female,Galle,202000,108500,Groceries,Premium
+C0622,72,Female,Colombo,124000,60500,Accessories,Premium
+C0623,35,Female,Kandy,103000,115000,Electronics,Premium
+C0624,75,Female,Jaffna,172000,86500,Accessories,Premium
+C0625,73,Male,Kandy,208000,60000,Accessories,Premium
+C0626,53,Female,Negombo,34000,48000,Clothing,Regular
+C0627,55,Female,Negombo,182000,77000,Groceries,Premium
+C0628,75,Male,Kandy,29000,28000,Accessories,Regular
+C0629,64,Female,Galle,156000,88500,Accessories,Premium
+C0630,69,Male,Galle,177000,0,No Purchase,Low Value
+C0631,44,Male,Kandy,26000,49000,Accessories,Regular
+C0632,45,Female,Negombo,120000,13500,Books,Regular
+C0633,42,Male,Jaffna,29000,73500,Clothing,Premium
+C0634,29,Male,Negombo,121000,40500,Accessories,Regular
+C0635,69,Female,Colombo,133000,47000,Groceries,Regular
+C0636,51,Male,Kandy,30000,40000,Accessories,Regular
+C0637,62,Male,Kandy,153000,117000,Clothing,Premium
+C0638,61,Male,Kandy,161000,47000,Books,Regular
+C0639,42,Female,Jaffna,63000,38000,Clothing,Regular
+C0640,29,Male,Colombo,233000,0,No Purchase,Low Value
+C0641,21,Female,Kandy,58000,8500,Books,Low Value
+C0642,73,Female,Negombo,44000,34000,Groceries,Regular
+C0643,64,Female,Galle,224000,56500,Books,Premium
+C0644,41,Female,Galle,177000,61500,Electronics,Premium
+C0645,24,Female,Kandy,144000,39000,Electronics,Regular
+C0646,70,Female,Galle,151000,49500,Accessories,Regular
+C0647,35,Female,Jaffna,140000,68500,Accessories,Premium
+C0648,23,Male,Galle,195000,5000,Electronics,Low Value
+C0649,63,Female,Colombo,102000,20500,Accessories,Regular
+C0650,60,Female,Galle,143000,0,No Purchase,Low Value
+C0651,70,Female,Kandy,162000,41500,Electronics,Regular
+C0652,25,Male,Galle,51000,118500,Groceries,Premium
+C0653,56,Male,Negombo,66000,115000,Groceries,Premium
+C0654,59,Female,Jaffna,149000,106000,Clothing,Premium
+C0655,47,Male,Jaffna,206000,16500,Groceries,Regular
+C0656,37,Male,Colombo,40000,45500,Electronics,Regular
+C0657,55,Female,Jaffna,174000,58000,Electronics,Premium
+C0658,59,Male,Galle,32000,56000,Clothing,Premium
+C0659,68,Male,Galle,229000,49000,Electronics,Regular
+C0660,22,Male,Jaffna,80000,0,No Purchase,Low Value
+C0661,67,Female,Negombo,181000,54500,Books,Premium
+C0662,30,Male,Kandy,63000,92000,Groceries,Premium
+C0663,43,Female,Negombo,218000,60500,Electronics,Premium
+C0664,70,Male,Jaffna,202000,71500,Groceries,Premium
+C0665,72,Male,Negombo,109000,87500,Accessories,Premium
+C0666,40,Male,Negombo,145000,27500,Groceries,Regular
+C0667,67,Male,Jaffna,54000,1000,Clothing,Low Value
+C0668,68,Male,Negombo,125000,70500,Groceries,Premium
+C0669,54,Male,Colombo,138000,35000,Groceries,Regular
+C0670,68,Female,Jaffna,64000,0,No Purchase,Low Value
+C0671,71,Male,Galle,67000,43500,Accessories,Regular
+C0672,61,Female,Jaffna,71000,93500,Accessories,Premium
+C0673,52,Male,Jaffna,224000,34500,Electronics,Regular
+C0674,28,Male,Colombo,66000,115000,Groceries,Premium
+C0675,22,Female,Negombo,47000,23000,Clothing,Regular
+C0676,25,Male,Jaffna,65000,110000,Groceries,Premium
+C0677,34,Male,Negombo,185000,99000,Books,Premium
+C0678,49,Female,Jaffna,35000,32000,Accessories,Regular
+C0679,18,Male,Galle,176000,95500,Books,Premium
+C0680,21,Female,Galle,117000,0,No Purchase,Low Value
+C0681,37,Female,Jaffna,54000,95000,Books,Premium
+C0682,32,Male,Jaffna,147000,119500,Clothing,Premium
+C0683,70,Male,Kandy,83000,20500,Clothing,Regular
+C0684,41,Female,Galle,168000,87000,Electronics,Premium
+C0685,43,Male,Jaffna,117000,58500,Accessories,Premium
+C0686,28,Female,Galle,201000,117500,Electronics,Premium
+C0687,70,Female,Negombo,250000,41000,Accessories,Regular
+C0688,65,Male,Galle,55000,13500,Clothing,Regular
+C0689,49,Male,Galle,176000,96000,Books,Premium
+C0690,33,Female,Jaffna,169000,0,No Purchase,Low Value
+C0691,23,Male,Jaffna,114000,87000,Clothing,Premium
+C0692,53,Female,Negombo,117000,36500,Electronics,Regular
+C0693,40,Male,Negombo,157000,16500,Groceries,Regular
+C0694,33,Male,Jaffna,96000,86000,Accessories,Premium
+C0695,39,Female,Jaffna,241000,118500,Electronics,Premium
+C0696,46,Male,Galle,32000,34000,Accessories,Regular
+C0697,49,Female,Jaffna,249000,26500,Accessories,Regular
+C0698,65,Male,Galle,98000,73000,Accessories,Premium
+C0699,59,Female,Negombo,196000,28000,Groceries,Regular
+C0700,25,Male,Colombo,241000,0,No Purchase,Low Value
+C0701,46,Male,Galle,122000,117500,Clothing,Premium
+C0702,37,Male,Colombo,241000,3500,Accessories,Low Value
+C0703,35,Female,Jaffna,143000,96000,Books,Premium
+C0704,25,Male,Colombo,177000,26000,Accessories,Regular
+C0705,73,Female,Colombo,143000,21000,Accessories,Regular
+C0706,31,Male,Colombo,49000,84000,Books,Premium
+C0707,62,Female,Kandy,206000,33500,Books,Regular
+C0708,39,Female,Negombo,204000,41000,Books,Regular
+C0709,62,Male,Colombo,58000,94000,Electronics,Premium
+C0710,31,Male,Galle,67000,0,No Purchase,Low Value
+C0711,40,Female,Jaffna,186000,114500,Electronics,Premium
+C0712,73,Female,Galle,94000,109500,Books,Premium
+C0713,49,Male,Colombo,248000,83000,Clothing,Premium
+C0714,40,Male,Galle,73000,50500,Groceries,Premium
+C0715,48,Female,Colombo,197000,14500,Books,Regular
+C0716,37,Female,Jaffna,93000,500,Electronics,Low Value
+C0717,64,Male,Negombo,89000,69000,Groceries,Premium
+C0718,67,Female,Negombo,202000,35500,Books,Regular
+C0719,32,Male,Kandy,152000,109500,Groceries,Premium
+C0720,64,Female,Kandy,40000,0,No Purchase,Low Value
+C0721,30,Female,Galle,129000,29000,Electronics,Regular
+C0722,42,Female,Galle,242000,91500,Clothing,Premium
+C0723,56,Female,Colombo,243000,105500,Groceries,Premium
+C0724,69,Male,Jaffna,187000,74500,Clothing,Premium
+C0725,74,Female,Colombo,42000,91000,Accessories,Premium
+C0726,64,Female,Jaffna,223000,66500,Books,Premium
+C0727,42,Female,Galle,46000,31500,Books,Regular
+C0728,69,Female,Galle,154000,49000,Books,Regular
+C0729,21,Male,Jaffna,97000,104500,Accessories,Premium
+C0730,47,Female,Colombo,28000,0,No Purchase,Low Value
+C0731,57,Female,Galle,250000,16500,Clothing,Regular
+C0732,62,Male,Kandy,94000,98000,Accessories,Premium
+C0733,70,Female,Jaffna,28000,73000,Accessories,Premium
+C0734,58,Female,Jaffna,211000,71000,Accessories,Premium
+C0735,47,Female,Negombo,201000,32000,Books,Regular
+C0736,56,Female,Colombo,216000,53500,Books,Premium
+C0737,56,Male,Jaffna,30000,83000,Clothing,Premium
+C0738,60,Male,Negombo,199000,63000,Books,Premium
+C0739,44,Male,Jaffna,197000,80500,Books,Premium
+C0740,44,Female,Kandy,57000,0,No Purchase,Low Value
+C0741,36,Female,Galle,210000,103500,Books,Premium
+C0742,43,Female,Kandy,52000,64500,Books,Premium
+C0743,67,Male,Negombo,96000,9500,Groceries,Low Value
+C0744,28,Female,Negombo,125000,99000,Books,Premium
+C0745,58,Male,Jaffna,107000,37500,Clothing,Regular
+C0746,35,Male,Jaffna,128000,62000,Electronics,Premium
+C0747,36,Female,Jaffna,39000,4500,Clothing,Low Value
+C0748,54,Male,Jaffna,68000,25500,Electronics,Regular
+C0749,46,Female,Galle,248000,15000,Groceries,Regular
+C0750,60,Female,Negombo,241000,0,No Purchase,Low Value
+C0751,73,Female,Negombo,168000,111500,Groceries,Premium
+C0752,35,Female,Galle,101000,110000,Clothing,Premium
+C0753,31,Female,Jaffna,101000,51500,Electronics,Premium
+C0754,36,Male,Kandy,56000,20500,Books,Regular
+C0755,57,Female,Jaffna,63000,61000,Accessories,Premium
+C0756,40,Male,Colombo,66000,98500,Electronics,Premium
+C0757,45,Female,Galle,180000,500,Clothing,Low Value
+C0758,60,Female,Colombo,171000,37000,Accessories,Regular
+C0759,45,Female,Negombo,62000,115000,Books,Premium
+C0760,53,Female,Colombo,175000,0,No Purchase,Low Value
+C0761,58,Male,Jaffna,136000,14000,Books,Regular
+C0762,67,Male,Kandy,51000,84500,Electronics,Premium
+C0763,30,Male,Colombo,178000,83000,Groceries,Premium
+C0764,43,Male,Jaffna,86000,20000,Accessories,Regular
+C0765,53,Female,Negombo,68000,106500,Accessories,Premium
+C0766,53,Female,Galle,125000,86000,Books,Premium
+C0767,63,Female,Kandy,104000,102500,Accessories,Premium
+C0768,56,Female,Jaffna,37000,68000,Accessories,Premium
+C0769,52,Male,Negombo,192000,85000,Electronics,Premium
+C0770,74,Male,Colombo,97000,0,No Purchase,Low Value
+C0771,52,Female,Kandy,107000,83500,Accessories,Premium
+C0772,30,Female,Galle,118000,67500,Groceries,Premium
+C0773,66,Male,Kandy,242000,3500,Clothing,Low Value
+C0774,33,Male,Jaffna,238000,51000,Clothing,Premium
+C0775,64,Female,Jaffna,133000,72000,Books,Premium
+C0776,46,Male,Colombo,80000,71000,Groceries,Premium
+C0777,27,Male,Colombo,96000,15500,Accessories,Regular
+C0778,34,Female,Negombo,167000,50000,Electronics,Regular
+C0779,55,Female,Negombo,42000,88000,Accessories,Premium
+C0780,27,Female,Kandy,154000,0,No Purchase,Low Value
+C0781,56,Male,Colombo,110000,45500,Clothing,Regular
+C0782,56,Female,Galle,159000,60000,Electronics,Premium
+C0783,40,Female,Negombo,103000,26500,Electronics,Regular
+C0784,46,Male,Jaffna,152000,38000,Groceries,Regular
+C0785,40,Male,Negombo,55000,10500,Accessories,Regular
+C0786,74,Female,Kandy,38000,26000,Clothing,Regular
+C0787,19,Male,Galle,209000,97000,Accessories,Premium
+C0788,35,Male,Colombo,188000,27000,Books,Regular
+C0789,33,Male,Negombo,104000,4000,Clothing,Low Value
+C0790,35,Male,Colombo,26000,0,No Purchase,Low Value
+C0791,23,Female,Jaffna,77000,10000,Accessories,Regular
+C0792,24,Male,Colombo,139000,114000,Books,Premium
+C0793,46,Female,Kandy,55000,93500,Books,Premium
+C0794,73,Female,Kandy,138000,108500,Groceries,Premium
+C0795,45,Female,Jaffna,215000,103500,Electronics,Premium
+C0796,24,Male,Jaffna,81000,51000,Accessories,Premium
+C0797,65,Male,Colombo,79000,92500,Books,Premium
+C0798,52,Female,Negombo,97000,2500,Books,Low Value
+C0799,66,Male,Negombo,184000,6500,Electronics,Low Value
+C0800,40,Female,Kandy,49000,0,No Purchase,Low Value
+C0801,43,Male,Kandy,40000,53000,Clothing,Premium
+C0802,51,Male,Galle,58000,10000,Accessories,Regular
+C0803,20,Female,Kandy,96000,86500,Clothing,Premium
+C0804,67,Female,Negombo,186000,81000,Clothing,Premium
+C0805,24,Female,Galle,101000,7000,Books,Low Value
+C0806,64,Male,Jaffna,160000,63000,Groceries,Premium
+C0807,21,Female,Negombo,237000,12000,Books,Regular
+C0808,44,Male,Colombo,25000,1000,Books,Low Value
+C0809,47,Female,Kandy,182000,86500,Electronics,Premium
+C0810,70,Male,Kandy,63000,0,No Purchase,Low Value
+C0811,66,Male,Galle,191000,110000,Clothing,Premium
+C0812,27,Male,Negombo,227000,102000,Accessories,Premium
+C0813,31,Female,Jaffna,147000,3000,Accessories,Low Value
+C0814,26,Female,Colombo,75000,92000,Clothing,Premium
+C0815,56,Male,Galle,145000,104500,Groceries,Premium
+C0816,30,Male,Colombo,205000,19000,Clothing,Regular
+C0817,39,Female,Kandy,43000,8500,Electronics,Low Value
+C0818,54,Male,Negombo,153000,69500,Books,Premium
+C0819,39,Female,Jaffna,152000,93000,Accessories,Premium
+C0820,37,Female,Negombo,49000,0,No Purchase,Low Value
+C0821,57,Female,Jaffna,134000,116000,Groceries,Premium
+C0822,41,Male,Negombo,186000,98000,Electronics,Premium
+C0823,49,Male,Kandy,99000,107000,Electronics,Premium
+C0824,42,Male,Kandy,128000,26500,Books,Regular
+C0825,44,Male,Colombo,243000,2500,Groceries,Low Value
+C0826,63,Male,Galle,87000,65500,Electronics,Premium
+C0827,55,Female,Kandy,34000,15000,Books,Regular
+C0828,65,Female,Negombo,210000,95000,Electronics,Premium
+C0829,31,Male,Colombo,175000,91000,Accessories,Premium
+C0830,63,Male,Negombo,148000,0,No Purchase,Low Value
+C0831,23,Male,Colombo,53000,4000,Books,Low Value
+C0832,47,Male,Colombo,82000,65500,Clothing,Premium
+C0833,52,Female,Colombo,102000,28000,Groceries,Regular
+C0834,23,Male,Colombo,162000,99500,Accessories,Premium
+C0835,37,Male,Colombo,176000,92500,Electronics,Premium
+C0836,62,Female,Colombo,89000,51000,Accessories,Premium
+C0837,25,Female,Kandy,143000,20000,Accessories,Regular
+C0838,24,Female,Negombo,151000,90500,Groceries,Premium
+C0839,29,Female,Kandy,76000,110500,Books,Premium
+C0840,21,Female,Jaffna,204000,0,No Purchase,Low Value
+C0841,44,Female,Colombo,29000,102000,Electronics,Premium
+C0842,23,Female,Jaffna,91000,35500,Clothing,Regular
+C0843,66,Female,Kandy,148000,32000,Accessories,Regular
+C0844,25,Male,Galle,146000,30000,Books,Regular
+C0845,73,Female,Negombo,134000,63000,Accessories,Premium
+C0846,69,Female,Kandy,29000,39500,Groceries,Regular
+C0847,56,Male,Galle,160000,23500,Accessories,Regular
+C0848,63,Female,Kandy,187000,54500,Clothing,Premium
+C0849,50,Female,Galle,124000,76000,Groceries,Premium
+C0850,74,Female,Kandy,110000,0,No Purchase,Low Value
+C0851,24,Male,Kandy,123000,13000,Groceries,Regular
+C0852,38,Female,Negombo,55000,30000,Accessories,Regular
+C0853,44,Female,Galle,249000,37000,Accessories,Regular
+C0854,68,Male,Kandy,35000,46500,Groceries,Regular
+C0855,67,Male,Negombo,166000,77500,Clothing,Premium
+C0856,30,Female,Galle,28000,15000,Books,Regular
+C0857,65,Male,Jaffna,119000,89500,Clothing,Premium
+C0858,23,Male,Kandy,32000,116000,Accessories,Premium
+C0859,21,Female,Kandy,137000,12000,Groceries,Regular
+C0860,73,Male,Kandy,131000,0,No Purchase,Low Value
+C0861,68,Male,Jaffna,231000,11500,Groceries,Regular
+C0862,31,Female,Jaffna,30000,34000,Clothing,Regular
+C0863,21,Female,Galle,155000,14500,Accessories,Regular
+C0864,40,Female,Galle,190000,51000,Clothing,Premium
+C0865,67,Female,Negombo,86000,51500,Clothing,Premium
+C0866,72,Female,Negombo,139000,111000,Clothing,Premium
+C0867,42,Female,Colombo,52000,27000,Accessories,Regular
+C0868,75,Female,Jaffna,106000,110000,Electronics,Premium
+C0869,23,Female,Kandy,89000,86500,Electronics,Premium
+C0870,18,Female,Galle,73000,0,No Purchase,Low Value
+C0871,27,Male,Jaffna,195000,103500,Books,Premium
+C0872,36,Female,Negombo,142000,76500,Electronics,Premium
+C0873,50,Female,Kandy,180000,24000,Books,Regular
+C0874,33,Female,Kandy,188000,40000,Electronics,Regular
+C0875,45,Male,Colombo,167000,83500,Groceries,Premium
+C0876,73,Female,Negombo,86000,23500,Electronics,Regular
+C0877,66,Male,Galle,247000,59500,Clothing,Premium
+C0878,74,Male,Galle,231000,48000,Books,Regular
+C0879,67,Female,Kandy,40000,110000,Electronics,Premium
+C0880,61,Male,Jaffna,68000,0,No Purchase,Low Value
+C0881,70,Male,Galle,134000,40500,Accessories,Regular
+C0882,36,Male,Negombo,161000,39500,Clothing,Regular
+C0883,46,Male,Kandy,161000,32000,Electronics,Regular
+C0884,52,Male,Kandy,49000,48500,Accessories,Regular
+C0885,49,Male,Jaffna,101000,91500,Books,Premium
+C0886,43,Male,Kandy,107000,45500,Electronics,Regular
+C0887,60,Female,Negombo,243000,27500,Clothing,Regular
+C0888,70,Female,Colombo,223000,45500,Groceries,Regular
+C0889,18,Female,Colombo,187000,66000,Electronics,Premium
+C0890,48,Female,Jaffna,139000,0,No Purchase,Low Value
+C0891,66,Female,Colombo,28000,73000,Clothing,Premium
+C0892,40,Male,Kandy,240000,46000,Electronics,Regular
+C0893,47,Male,Colombo,83000,26000,Electronics,Regular
+C0894,51,Male,Jaffna,81000,54000,Books,Premium
+C0895,40,Male,Kandy,90000,50000,Books,Regular
+C0896,29,Male,Jaffna,152000,34500,Electronics,Regular
+C0897,34,Male,Negombo,203000,29500,Accessories,Regular
+C0898,20,Male,Galle,246000,5500,Clothing,Low Value
+C0899,74,Female,Negombo,241000,20000,Accessories,Regular
+C0900,28,Male,Galle,225000,0,No Purchase,Low Value
+C0901,22,Female,Jaffna,39000,44500,Accessories,Regular
+C0902,68,Male,Negombo,64000,107500,Books,Premium
+C0903,22,Female,Jaffna,236000,77000,Groceries,Premium
+C0904,41,Male,Negombo,62000,78500,Groceries,Premium
+C0905,48,Female,Jaffna,76000,54000,Accessories,Premium
+C0906,27,Female,Negombo,218000,13000,Clothing,Regular
+C0907,29,Male,Jaffna,43000,37500,Books,Regular
+C0908,59,Female,Galle,171000,86000,Electronics,Premium
+C0909,52,Male,Galle,166000,40000,Accessories,Regular
+C0910,53,Female,Colombo,149000,0,No Purchase,Low Value
+C0911,40,Female,Jaffna,78000,86000,Electronics,Premium
+C0912,65,Female,Negombo,105000,79000,Clothing,Premium
+C0913,30,Male,Galle,190000,35000,Books,Regular
+C0914,52,Male,Negombo,91000,4000,Groceries,Low Value
+C0915,20,Female,Colombo,26000,110000,Groceries,Premium
+C0916,24,Male,Negombo,211000,42000,Books,Regular
+C0917,65,Male,Colombo,210000,30000,Accessories,Regular
+C0918,21,Male,Galle,188000,103000,Clothing,Premium
+C0919,51,Male,Jaffna,166000,49500,Accessories,Regular
+C0920,56,Female,Jaffna,150000,0,No Purchase,Low Value
+C0921,64,Male,Colombo,189000,66500,Electronics,Premium
+C0922,45,Female,Jaffna,104000,60000,Groceries,Premium
+C0923,66,Female,Kandy,70000,41500,Clothing,Regular
+C0924,32,Female,Kandy,199000,37000,Books,Regular
+C0925,32,Male,Negombo,172000,73000,Accessories,Premium
+C0926,59,Male,Kandy,42000,49000,Books,Regular
+C0927,27,Male,Colombo,41000,107000,Groceries,Premium
+C0928,60,Female,Colombo,143000,60000,Electronics,Premium
+C0929,25,Male,Galle,144000,105000,Electronics,Premium
+C0930,34,Female,Galle,141000,0,No Purchase,Low Value
+C0931,30,Female,Negombo,54000,108500,Clothing,Premium
+C0932,55,Female,Kandy,165000,108000,Clothing,Premium
+C0933,70,Male,Kandy,203000,32000,Groceries,Regular
+C0934,26,Female,Jaffna,122000,74500,Groceries,Premium
+C0935,70,Male,Jaffna,186000,119000,Groceries,Premium
+C0936,37,Male,Kandy,164000,59000,Books,Premium
+C0937,58,Female,Colombo,69000,84500,Books,Premium
+C0938,57,Female,Colombo,203000,108500,Clothing,Premium
+C0939,62,Male,Jaffna,200000,94000,Clothing,Premium
+C0940,56,Male,Galle,167000,0,No Purchase,Low Value
+C0941,29,Female,Jaffna,243000,110500,Groceries,Premium
+C0942,70,Male,Kandy,182000,6000,Electronics,Low Value
+C0943,39,Male,Colombo,75000,20000,Books,Regular
+C0944,62,Female,Negombo,86000,67000,Electronics,Premium
+C0945,42,Male,Galle,214000,78000,Books,Premium
+C0946,62,Female,Kandy,91000,120000,Clothing,Premium
+C0947,53,Female,Negombo,43000,100500,Electronics,Premium
+C0948,44,Female,Jaffna,83000,19000,Groceries,Regular
+C0949,54,Male,Colombo,86000,79000,Electronics,Premium
+C0950,41,Female,Negombo,235000,0,No Purchase,Low Value
+C0951,31,Male,Jaffna,42000,119000,Electronics,Premium
+C0952,21,Male,Colombo,121000,69000,Books,Premium
+C0953,48,Female,Negombo,240000,109500,Electronics,Premium
+C0954,49,Female,Jaffna,193000,109500,Accessories,Premium
+C0955,69,Male,Jaffna,76000,42000,Books,Regular
+C0956,67,Female,Jaffna,38000,14000,Clothing,Regular
+C0957,18,Male,Colombo,196000,66500,Groceries,Premium
+C0958,34,Female,Jaffna,143000,100000,Books,Premium
+C0959,48,Male,Negombo,51000,83000,Accessories,Premium
+C0960,75,Female,Galle,228000,0,No Purchase,Low Value
+C0961,51,Female,Galle,139000,47000,Electronics,Regular
+C0962,59,Male,Colombo,139000,13500,Groceries,Regular
+C0963,74,Male,Colombo,154000,24000,Books,Regular
+C0964,28,Female,Jaffna,45000,21500,Groceries,Regular
+C0965,38,Female,Galle,27000,83500,Electronics,Premium
+C0966,68,Female,Jaffna,215000,40000,Electronics,Regular
+C0967,23,Female,Negombo,221000,81000,Accessories,Premium
+C0968,58,Male,Kandy,180000,500,Electronics,Low Value
+C0969,51,Male,Jaffna,76000,22500,Books,Regular
+C0970,74,Male,Galle,135000,0,No Purchase,Low Value
+C0971,73,Female,Negombo,215000,86500,Electronics,Premium
+C0972,69,Male,Colombo,140000,18500,Electronics,Regular
+C0973,30,Male,Colombo,65000,28000,Books,Regular
+C0974,43,Female,Galle,232000,36500,Accessories,Regular
+C0975,63,Female,Jaffna,165000,16500,Accessories,Regular
+C0976,49,Female,Negombo,44000,66500,Clothing,Premium
+C0977,28,Female,Negombo,211000,17500,Clothing,Regular
+C0978,31,Female,Negombo,185000,71500,Clothing,Premium
+C0979,41,Male,Colombo,133000,20500,Electronics,Regular
+C0980,43,Male,Negombo,188000,0,No Purchase,Low Value
+C0981,48,Female,Colombo,141000,21000,Books,Regular
+C0982,70,Male,Colombo,190000,19000,Clothing,Regular
+C0983,28,Female,Jaffna,65000,26500,Electronics,Regular
+C0984,33,Female,Galle,185000,22500,Electronics,Regular
+C0985,42,Female,Galle,158000,35500,Books,Regular
+C0986,26,Male,Kandy,29000,6000,Electronics,Low Value
+C0987,31,Female,Kandy,156000,42500,Books,Regular
+C0988,34,Female,Galle,118000,15000,Electronics,Regular
+C0989,43,Female,Kandy,92000,40000,Electronics,Regular
+C0990,70,Male,Colombo,168000,0,No Purchase,Low Value
+C0991,48,Female,Galle,242000,52000,Electronics,Premium
+C0992,55,Female,Colombo,228000,73000,Groceries,Premium
+C0993,21,Male,Negombo,110000,71000,Groceries,Premium
+C0994,41,Male,Jaffna,117000,24000,Accessories,Regular
+C0995,62,Female,Colombo,111000,94000,Books,Premium
+C0996,20,Female,Negombo,77000,40000,Clothing,Regular
+C0997,70,Male,Negombo,69000,112000,Electronics,Premium
+C0998,70,Female,Kandy,217000,116500,Books,Premium
+C0999,53,Female,Negombo,181000,46000,Groceries,Regular
+C1000,63,Male,Jaffna,103000,0,No Purchase,Low Value
